@@ -1,1 +1,1 @@
-def first_number(0) 
+ first_number = 0
